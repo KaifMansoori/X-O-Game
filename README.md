@@ -3,7 +3,6 @@
  ## Install my-project with npm
 
 ```bash
-  cd investment-calculator
   npm install
   npm run dev
 ```
